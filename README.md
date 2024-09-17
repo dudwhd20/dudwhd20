@@ -18,11 +18,18 @@
 
 
 ## My Skill Set
-
-### Backend  
+### FrontEnd
 <div align="center">  
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-007396?style=for-the-badge&logo=javascript&logoColor=#F7DF1E">
+  <img src="https://img.shields.io/badge/html5-007396?style=for-the-badge&logoColor=#E34F26">
+  <img src="https://img.shields.io/badge/css3-007396?style=for-the-badge&logoColor=#1572B6">
+</div>
+
+### BackEnd  
+<div align="center">  
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=#6DB33F">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 </div>
 
 ### DB  
@@ -30,6 +37,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-6DB33F?style=for-the-badge&logo=postgresql&logoColor=#4169E1">
 </div>
 
 ### DevOps  
